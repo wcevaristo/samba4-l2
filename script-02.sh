@@ -44,7 +44,7 @@
 #
 # Editando o arquivo /etc/hosts
 #	vim /etc/hosts
-#	192.168.1.10	ptispo01dc01.pti.intra	ptispo01dc01
+#	192.168.2.10	ptispo01dc01.pti.intra	ptispo01dc01
 #
 # Editando o arquivo /etc/defaults/grub
 #	GRUB_CMDLINE_LINUX_DEFAULT="net.ifnames=0" 
